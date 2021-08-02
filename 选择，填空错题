@@ -1,0 +1,13 @@
+9、创建方法错误的是
+
+A、var fun = () =>{};
+
+B、fun(){}
+
+C、function fun() {}
+
+D、var fun = function () {}
+
+答案：B
+
+1、Vue 父子组件间的参数传递是如何做到的？
